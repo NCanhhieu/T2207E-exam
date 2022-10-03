@@ -8,8 +8,8 @@ import {employee} from "../../Interface/employee.interface";
   })
 export class ParisComponent extends Component{
   ls: employee[] = [
-    { id: 1, name: "RoBert King", place: "Team Lead"},
-    { id: 2, name: "Michael Suyama", place: "developer"},
-    { id: 3, name: "Margaret Peacock",  place: "developer"},
+    { id: 1, name: "RoBert aKing", place: "Team Lead"},
+    { id: 2, name: "Michael aSuyama", place: "developer"},
+    { id: 3, name: "Margaret aPeacock",  place: "developer"},
   ];
 }
