@@ -65,3 +65,7 @@ img{
 li {
   list-style-type: none;
 }
+.place{
+  font-style: italic;
+  color: #8c7e7e;
+}
